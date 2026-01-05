@@ -42,7 +42,7 @@ Para que o programa funcione, você precisa de uma chave gratuita:
 ### 2. Clonar o Repositório
 ```bash
 
-git clone https://github.com/seu-usuario/conversor-de-moedas-java.git
+git clone https://github.com/Davenir-ramos/conversor-de-moeda.git
 ```
 ### Exemplo de Execução
   - Ao rodar o programa, o fluxo será:
